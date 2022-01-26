@@ -1,8 +1,38 @@
 {
-    "asdf1234": {
-        "name": "Subaru Legacy 4x4",
-        "description": "200020 km. New Imported! Manual Transmision",
-        "imageUrl": "subaru.jpg",
-        "price": 3300
-    }
+  "asdf1234": {
+    "name": "Subaru Legacy 4x4",
+    "description": "200020 km. New Imported! Manual Transmision",
+    "imageUrl": "subaru.jpg",
+    "price": 3300
+  },
+  "co0ssss2-02s2": {
+    "name": "BMW E90",
+    "description": "Sport",
+    "imageUrl": "bmw.jpg",
+    "price": 23000
+  },
+  "[object Promise]": {
+    "name": "Toyota Avensis 1.6i",
+    "description": "BENZINE ",
+    "imageUrl": "toyota.jpg",
+    "price": 12200
+  },
+  "f52341bc-4eaf": {
+    "name": "Toyota Avensis 1.6i",
+    "description": "TEST",
+    "imageUrl": "toyota.jpg",
+    "price": 123456
+  },
+  "6fe39d6e-de40": {
+    "name": "VW Golf GTI 2.0",
+    "description": "Model SPort Fuel Disel Age 2017\r\nTransmision Manual",
+    "imageUrl": "golf.jpg",
+    "price": 24000
+  },
+  "dc670cd9-3740": {
+    "name": "asdfasdf",
+    "description": "",
+    "imageUrl": "sdaf",
+    "price": 23
+  }
 }
