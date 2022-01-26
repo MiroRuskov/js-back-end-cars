@@ -10,3 +10,8 @@ module.exports = {
         }
     }
 };
+
+function rs() {
+    sfsd = 4
+    ac = 3
+}

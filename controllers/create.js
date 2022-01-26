@@ -9,8 +9,9 @@ module.exports = {
             imageUrl: req.body.imageUrl,
             price: Number(req.body.price),
         };
-        console.log(car);
+
         await req.storage.createCar(car);
+
         res.redirect('/');
     }
 };
